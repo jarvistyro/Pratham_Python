@@ -9,6 +9,7 @@ under the mentorship of
 - pyttsx3             //To convert text to audio
 
 # Configuring Software
+   But Obviously, system should have python/anaconda installed
 - Install libraries
   ```
   pip3 install SpeechRecognition
